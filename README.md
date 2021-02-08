@@ -1,2 +1,2 @@
 # Ejercicio-de-array
-Es un programa donde el usuario incluye nombre y el programa le recomienda un nombre de usuario/contraseña.
+Es un programa donde el usuario tiene que introducir un nombre de usuario y una contraseña simulando un login. El nombre de usuario puede estar formado solo por minúsculas o números. En caso contrario el usuario deberá introducirlo de nuevo. Respecto a la contraseá deberá tener al menos una letra mayúscula, una letra minúscula, un número y un carácter especial. En caso contrario el usuario deberá introducirla de nuevo igual que con el nombre de usuario.
